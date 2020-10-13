@@ -5,7 +5,6 @@ Written: 10/13/2020
 '''
 import requests
 import json
-loopAgain = "yes"
 APIID = "c98593e412245c9ce904a86281016ff1"
 
 def inputData():
